@@ -54,7 +54,7 @@ ESM（Earn some money）解释如下图，顾名思义，会了这个可以在�
 
 Eureka 负责服务的注册与发现，并实现高可用，Eureka分为 Eureka 服务器与Eureka客户端。Eureka client 向Eureka server注册，多个Eureka server同步复制注册信息，实现高可用。
 
-![](README.assets/Eureka.png)
+![](https://github.com/moon137/ESM-springCloud/blob/master/README.assets/Eureka.png)
 
 > [慕课网 张勤一 视频第25秒](https://www.imooc.com/video/20703)
 >
